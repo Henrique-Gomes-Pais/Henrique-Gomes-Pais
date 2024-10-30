@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Henrique-Gomes-Pais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomes-Pais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomes-Pais&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomes-Pais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomes-Pais&layout=compact&langs_count=16&theme=dracula&title_color=green"/>
 </div>
 
 <div style="display: inline_block"><br>
