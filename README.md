@@ -1,8 +1,49 @@
-## Hi! I'm Henrique Pais
+# Hi, I'm Henrique Pais 👋
 
-- 🔭 I'm looking for front-end development opportunities.
-- 🌱 I’m currently studying Information Technology Management.
-- 😄 Pronouns: he/him
+IT-focused professional with experience in technical support, industrial processes, SAP, logistics and software development.
+
+I started my career in IT support, working with hardware, software, networks and technical troubleshooting. Over the years, I expanded my experience into industrial environments, logistics, SAP and technical project development.
+
+Today, I am focused on building digital solutions using Python, web technologies and process automation.
+
+## 🚀 Current Focus
+
+- IT Support & Application Support
+- Python Development
+- Process Automation
+- Web Development
+- SAP & Logistics Processes
+- Digitalization and Workflow Improvement
+
+## 🛠️ Technologies & Tools
+
+- Python
+- HTML5 / CSS3
+- JavaScript
+- Git & GitHub
+- SAP
+- AutoCAD
+- Windows & IT Support
+- Networking & Troubleshooting
+
+## 💻 Projects
+
+I am currently working on projects involving:
+
+- Task and Project Management Systems
+- Internal Business Applications
+- Process Automation
+- Responsive Web Applications
+- Language Learning Applications
+- Database-driven applications
+
+## 🎓 Education
+
+Currently pursuing a degree in **Information Technology Management**.
+
+## 🎯 Career Goal
+
+My goal is to combine my background in IT, logistics, industrial processes and engineering with software development and automation to create practical solutions that improve real business processes.
 
 <div>
   <a href="https://github.com/Henrique-Gomes-Pais">
