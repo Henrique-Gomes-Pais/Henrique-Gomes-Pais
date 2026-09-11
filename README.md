@@ -1,157 +1,81 @@
-Hi, I'm Henrique Pais 👋
-IT • Software Development • Process Automation • Application Support
+# Hi, I'm Henrique Pais
 
-I'm an IT-focused professional with a background in technical support, industrial processes, engineering, logistics and SAP environments, currently building my career around software development, automation and digital solutions.
+IT professional with experience in **technical support, industrial processes, SAP, logistics and engineering**, currently focused on **software development, process automation and digital solutions**.
 
-I enjoy understanding how a real business process works, identifying what can be improved, and turning that problem into a practical digital solution.
+Based in Germany, I work in a technical environment while pursuing a degree in **Information Technology Management**.
 
-Currently based in Germany 🇩🇪, I work in a technical and industrial environment while pursuing my degree in Information Technology Management and developing software projects with a strong focus on Python and web technologies.
+My main interest is using technology to solve real business problems and improve workflows.
 
-🚀 What I'm focused on
-🐍 Python Development
-⚙️ Process Automation
-🖥️ IT & Application Support
-🌐 Web Development
-🏭 Digitalization of Industrial Processes
-📊 SAP & Logistics Processes
-🔗 APIs, Databases and System Integration
+## Current Focus
 
-My long-term goal is to work at the intersection of IT, software and business processes, building solutions that make companies more efficient.
+* Python Development
+* Process Automation
+* IT & Application Support
+* Web Development
+* SAP & Business Processes
+* Databases, APIs and System Integration
 
-💻 Featured Projects
-🏗️ Planning Construction
+## Tech Stack
 
-Internal planning and project management application
+**Development**
 
-A Python-based application designed to improve the workflow of a construction planning department.
+`Python` `JavaScript` `HTML` `CSS` `Git` `GitHub`
 
-Main concepts include:
+**Currently expanding**
 
-Task and project management
-Daily planning by employee
-Project status tracking
-Plan review and approval workflow
-User roles and permissions
-Calendar-based task visualization
-Internal communication between project members
-Database-driven information management
+`React` `SQL` `REST APIs`
 
-Tech: Python • Web Interface • Database • Git
+**Professional tools & experience**
 
-Private/internal project developed from a real business need.
+`SAP` `AutoCAD` `Windows` `IT Support` `Networking` `Troubleshooting`
 
-🌍 EasyLang
+## Projects
 
-A language-learning web application designed to provide a simple and interactive environment for studying different languages.
+### Planning Construction
 
-The project is also being used to expand my knowledge of modern front-end development and internationalization.
+Internal application designed to improve planning and project workflows in a construction environment.
 
-Tech: JavaScript • React • i18next • HTML • CSS
+Features include task management, user roles, project tracking, plan review workflows, calendars and internal communication.
 
-⚙️ Automation & Business Tools
+**Tech:** Python • Database • Web Interface • Git
 
-I'm continuously developing small applications and automation tools focused on:
+### EasyLang
 
-repetitive task reduction;
-data organization;
-internal workflows;
-productivity;
-business process improvement;
-practical solutions for real company environments.
-🛠️ Tech Stack
-Core
+Language-learning web application focused on modern front-end development and internationalization.
 
+**Tech:** React • JavaScript • HTML • CSS • i18next
 
+## Background
 
+My professional experience combines technology with real operational environments:
 
+* IT technical support
+* Industrial and engineering processes
+* SAP and logistics workflows
+* Technical project development
+* Business process improvement
 
+This allows me to understand both the software and the business problem behind it.
 
+## Education
 
-
-
-Expanding my knowledge
-
-
-
-
-
-
-Professional Tools & Business Experience
-
-
-
-
-
-
-Additional experience with:
-
-IT Support • Application Support • Troubleshooting • Networking • Industrial Processes • Logistics • Workflow Improvement
-
-🧩 Professional Background
-
-My professional experience gives me a perspective that goes beyond programming.
-
-I have worked with:
-
-IT technical support
-Industrial environments
-Mechanical and civil engineering processes
-Technical project development
-SAP-based logistics workflows
-Warehouse and logistics operations
-Business process organization
-Internal digitalization initiatives
-
-This allows me to understand both the technical side of software and the business process behind the problem being solved.
-
-🎓 Education & Continuous Learning
-
-🎓 Information Technology Management
+**Information Technology Management**
 Currently pursuing my degree.
 
-I continuously study and develop skills in:
+## Languages
 
-Python
-Software Development
-Web Development
-Git & GitHub
-SAP
-APIs
-Databases
-Process Automation
-System Integration
-🌍 Languages
+Portuguese — Native
+Italian — Fluent
+Spanish — Fluent
+German — B2
+English — B2
 
-🇧🇷 Portuguese — Native
-🇮🇹 Italian — Fluent
-🇪🇸 Spanish — Fluent
-🇩🇪 German — B2
-🇬🇧 English — B2
+## Career Direction
 
-🎯 Career Direction
+I'm interested in opportunities related to:
 
-I'm building my career toward roles such as:
+**Software Development • Python • IT Support • Application Support • Automation • Digitalization**
 
-Software Development • Python Development • IT Support • Application Support • Process Automation • Digitalization
+## Contact
 
-I'm especially interested in environments where technology can be used to solve real operational and business problems.
-
-📊 GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomes-Pais&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomes-Pais&layout=compact&hide_border=true" />
-
-</div>
-
-🤝 Let's connect
-
-
-
-
-
-
-
-Technology is most valuable when it solves a real problem.
+[LinkedIn](https://www.linkedin.com/in/henrique-gomes-pais-633060312/) • [Email](mailto:henriquegomespais@gmail.com)
