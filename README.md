@@ -1,70 +1,157 @@
-# Hi, I'm Henrique Pais 👋
+Hi, I'm Henrique Pais 👋
+IT • Software Development • Process Automation • Application Support
 
-IT-focused professional with experience in technical support, industrial processes, SAP, logistics and software development.
+I'm an IT-focused professional with a background in technical support, industrial processes, engineering, logistics and SAP environments, currently building my career around software development, automation and digital solutions.
 
-I started my career in IT support, working with hardware, software, networks and technical troubleshooting. Over the years, I expanded my experience into industrial environments, logistics, SAP and technical project development.
+I enjoy understanding how a real business process works, identifying what can be improved, and turning that problem into a practical digital solution.
 
-Today, I am focused on building digital solutions using Python, web technologies and process automation.
+Currently based in Germany 🇩🇪, I work in a technical and industrial environment while pursuing my degree in Information Technology Management and developing software projects with a strong focus on Python and web technologies.
 
-## 🚀 Current Focus
+🚀 What I'm focused on
+🐍 Python Development
+⚙️ Process Automation
+🖥️ IT & Application Support
+🌐 Web Development
+🏭 Digitalization of Industrial Processes
+📊 SAP & Logistics Processes
+🔗 APIs, Databases and System Integration
 
-- IT Support & Application Support
-- Python Development
-- Process Automation
-- Web Development
-- SAP & Logistics Processes
-- Digitalization and Workflow Improvement
+My long-term goal is to work at the intersection of IT, software and business processes, building solutions that make companies more efficient.
 
-## 🛠️ Technologies & Tools
+💻 Featured Projects
+🏗️ Planning Construction
 
-- Python
-- HTML5 / CSS3
-- JavaScript
-- Git & GitHub
-- SAP
-- AutoCAD
-- Windows & IT Support
-- Networking & Troubleshooting
+Internal planning and project management application
 
-## 💻 Projects
+A Python-based application designed to improve the workflow of a construction planning department.
 
-I am currently working on projects involving:
+Main concepts include:
 
-- Task and Project Management Systems
-- Internal Business Applications
-- Process Automation
-- Responsive Web Applications
-- Language Learning Applications
-- Database-driven applications
+Task and project management
+Daily planning by employee
+Project status tracking
+Plan review and approval workflow
+User roles and permissions
+Calendar-based task visualization
+Internal communication between project members
+Database-driven information management
 
-## 🎓 Education
+Tech: Python • Web Interface • Database • Git
 
-Currently pursuing a degree in **Information Technology Management**.
+Private/internal project developed from a real business need.
 
-## 🎯 Career Goal
+🌍 EasyLang
 
-My goal is to combine my background in IT, logistics, industrial processes and engineering with software development and automation to create practical solutions that improve real business processes.
+A language-learning web application designed to provide a simple and interactive environment for studying different languages.
 
-<div>
-  <a href="https://github.com/Henrique-Gomes-Pais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomes-Pais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomes-Pais&layout=compact&langs_count=16&theme=dracula&title_color=green"/>
+The project is also being used to expand my knowledge of modern front-end development and internationalization.
+
+Tech: JavaScript • React • i18next • HTML • CSS
+
+⚙️ Automation & Business Tools
+
+I'm continuously developing small applications and automation tools focused on:
+
+repetitive task reduction;
+data organization;
+internal workflows;
+productivity;
+business process improvement;
+practical solutions for real company environments.
+🛠️ Tech Stack
+Core
+
+
+
+
+
+
+
+
+
+Expanding my knowledge
+
+
+
+
+
+
+Professional Tools & Business Experience
+
+
+
+
+
+
+Additional experience with:
+
+IT Support • Application Support • Troubleshooting • Networking • Industrial Processes • Logistics • Workflow Improvement
+
+🧩 Professional Background
+
+My professional experience gives me a perspective that goes beyond programming.
+
+I have worked with:
+
+IT technical support
+Industrial environments
+Mechanical and civil engineering processes
+Technical project development
+SAP-based logistics workflows
+Warehouse and logistics operations
+Business process organization
+Internal digitalization initiatives
+
+This allows me to understand both the technical side of software and the business process behind the problem being solved.
+
+🎓 Education & Continuous Learning
+
+🎓 Information Technology Management
+Currently pursuing my degree.
+
+I continuously study and develop skills in:
+
+Python
+Software Development
+Web Development
+Git & GitHub
+SAP
+APIs
+Databases
+Process Automation
+System Integration
+🌍 Languages
+
+🇧🇷 Portuguese — Native
+🇮🇹 Italian — Fluent
+🇪🇸 Spanish — Fluent
+🇩🇪 German — B2
+🇬🇧 English — B2
+
+🎯 Career Direction
+
+I'm building my career toward roles such as:
+
+Software Development • Python Development • IT Support • Application Support • Process Automation • Digitalization
+
+I'm especially interested in environments where technology can be used to solve real operational and business problems.
+
+📊 GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Gomes-Pais&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Gomes-Pais&layout=compact&hide_border=true" />
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
+🤝 Let's connect
 
-##
 
-<div>
-  <a href="https://instagram.com/henriquepais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henriquegomespais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-gomes-pais-633060312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+
+
+
+
+Technology is most valuable when it solves a real problem.
