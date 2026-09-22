@@ -15,36 +15,6 @@ My main interest is using technology to solve real business problems and improve
 * SAP & Business Processes
 * Databases, APIs and System Integration
 
-## Tech Stack
-
-**Development**
-
-`Python` `JavaScript` `HTML` `CSS` `Git` `GitHub`
-
-**Currently expanding**
-
-`React` `SQL` `REST APIs`
-
-**Professional tools & experience**
-
-`SAP` `AutoCAD` `Windows` `IT Support` `Networking` `Troubleshooting`
-
-## Projects
-
-### Planning Construction
-
-Internal application designed to improve planning and project workflows in a construction environment.
-
-Features include task management, user roles, project tracking, plan review workflows, calendars and internal communication.
-
-**Tech:** Python • Database • Web Interface • Git
-
-### EasyLang
-
-Language-learning web application focused on modern front-end development and internationalization.
-
-**Tech:** React • JavaScript • HTML • CSS • i18next
-
 ## Background
 
 My professional experience combines technology with real operational environments:
@@ -67,8 +37,8 @@ Currently pursuing my degree.
 Portuguese — Native
 Italian — Fluent
 Spanish — Fluent
-German — B2
-English — B2
+German — Fluent
+English — C1
 
 ## Career Direction
 
